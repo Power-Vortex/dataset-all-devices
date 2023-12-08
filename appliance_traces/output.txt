@@ -1,0 +1,126 @@
+Folder PATH listing for volume Acer
+Volume serial number is EA56-5B62
+C:.
+¦   .DS_Store
+¦   output.txt
+¦   
++---coffeemachine
+¦       .DS_Store
+¦       Coffee_Machine_2_COFFEES.CSV
+¦       Coffee_Machine_ESSPRESSO.CSV
+¦       Coffee_Machine_OFF.CSV
+¦       Coffee_Machine_ON.CSV
+¦       Coffee_Machine_STANDBY.CSV
+¦       Coffee_Machine_Verlaengerter.CSV
+¦       
++---dishwasher
+¦       .DS_Store
+¦       DW-LONG.CSV
+¦       DW-ORDI.CSV
+¦       DW-SP.CSV
+¦       DW_ON.CSV
+¦       
++---fan
+¦       .DS_Store
+¦       FAN_1.CSV
+¦       FAN_3.CSV
+¦       
++---fridge
+¦       .DS_Store
+¦       Fridge_ON.CSV
+¦       Fridge_USE.CSV
+¦       
++---gaming_PC
+¦       .DS_Store
+¦       Gaming_PC_OFF.CSV
+¦       Gaming_PC_ON.CSV
+¦       Gaming_PC_PLAY.CSV
+¦       Gaming_PC_USE.CSV
+¦       
++---hairdryer
+¦       .DS_Store
+¦       hairdryer_USE.CSV
+¦       
++---heater
+¦       .DS_Store
+¦       Heater_ON.CSV
+¦       Heater_USE_1000W.CSV
+¦       Heater_USE_2000W.CSV
+¦       
++---hot_air_gun
+¦       .DS_Store
+¦       Hot_Air_Gun.CSV
+¦       Hot_Air_Gun_2.CSV
+¦       
++---iron
+¦       .DS_Store
+¦       IRON_ON.CSV
+¦       IRON_US2.CSV
+¦       IRON_US3.CSV
+¦       
++---lamp
+¦       .DS_Store
+¦       LAMP_OFF.CSV
+¦       LAMP_ON.CSV
+¦       LAMP_USE.CSV
+¦       
++---laptop
+¦       .DS_Store
+¦       Laptop_OFF.CSV
+¦       Laptop_ON.CSV
+¦       Laptop_USE.CSV
+¦       
++---microwave
+¦       .DS_Store
+¦       Micro_Wave_360.CSV
+¦       Micro_Wave_800.CSV
+¦       Micro_Wave_90.CSV
+¦       
++---mini_oven
+¦       .DS_Store
+¦       MINI_OVEN_USE.CSV
+¦       
++---monitor
+¦       .DS_Store
+¦       Monitor_ON.CSV
+¦       Monitor_USE.CSV
+¦       
++---printer
+¦       .DS_Store
+¦       Printer_OFF.CSV
+¦       Printer_ON.CSV
+¦       Printer_US1.CSV
+¦       Printer_US2.CSV
+¦       
++---radio
+¦       .DS_Store
+¦       Radio_CD.CSV
+¦       Radio_USE.CSV
+¦       
++---router
+¦       .DS_Store
+¦       Router_USE.CSV
+¦       
++---toaster
+¦       .DS_Store
+¦       Toaster_1.CSV
+¦       Toaster_7.CSV
+¦       Toaster_US.CSV
+¦       
++---TV
+¦       .DS_Store
+¦       TV_OFF.CSV
+¦       TV_ON.CSV
+¦       TV_STANDBY.CSV
+¦       TV_USE.CSV
+¦       
++---washingmachine
+¦       .DS_Store
+¦       WM_ON.CSV
+¦       WM_USE40.CSV
+¦       WM_USE60.CSV
+¦       
++---watercooker
+        .DS_Store
+        WaterCooker_USE.CSV
+        
